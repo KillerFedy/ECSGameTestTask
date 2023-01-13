@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.scellecs.morpeh": {
+      "version": "https://github.com/scellecs/morpeh.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "41e595db45b20c957e5174ccfbb684d96e962285"
+    },
     "com.unity.collab-proxy": {
       "version": "1.17.2",
       "depth": 0,
